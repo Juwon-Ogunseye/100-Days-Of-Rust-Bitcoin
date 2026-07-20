@@ -15,4 +15,5 @@ transitioning into Bitcoin development in Rust (rust-bitcoin, Bitcoin Core RPC, 
 |-----|-------|-------|
 | Day 1 | [Guessing Game](Week-01/Day-01_Guessing-Game) | ✅ |
 | Day 2 | [Variables, Mutability, Data Types, Functions & Comments](Week-01/Day-02_Variables_and_Mutability) | ✅ |
-| Day 3 | | ⬜ |
+| Day 3 | [control functions, expression, limitaion, & loop](Week-01/Day-03_Control_and_ownership) | ✅ |
+| Day 4 | | ⬜ |
